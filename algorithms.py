@@ -1,6 +1,8 @@
 # Programmer: 	Raza Bhatti
 # Company:	Softgalaxy Technologies Inc.
 # Website:	https://www.linkedin.com/in/softgalaxy
+# 
+# Observation or Principle to proposed solutions: There are mostly or always multiple ways to achieve same objective.
 #
 # Python 3.x Program Function: 
 # 1. Take two parameters x,y and if x>y, recursively do following operation.
